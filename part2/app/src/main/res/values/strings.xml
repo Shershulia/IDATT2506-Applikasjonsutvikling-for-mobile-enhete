@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">part2</string>
+    <string name="adds">Adder</string>
+    <string name="mults">Multipliser</string>
+    <string name="answ">Svar</string>
+    <string name="limit">Øvre grense:</string>
+    <string name="right">Riktig</string>
+    <string name="fail">• Feil. Riktig svar er</string>
+
+
+</resources>
